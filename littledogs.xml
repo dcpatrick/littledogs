@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+    <image>
+        <src>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Winter_2024_Little_Dog_Website_Sliders-1.jpg</src>
+        <caption>Picture 1</caption>
+    </image>
+
+    <image>
+        <src>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Team_Collage_Slider.jpg</src>
+        <caption>Picture 2</caption>
+    </image>
+
+    <image>
+        <src>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/3-4.png</src>
+        <caption>Picture 3</caption>
+    </image>
+
+    <image>
+        <src>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/4-4.png</src>
+        <caption>Picture 4</caption>
+    </image>
+</slideshow>
